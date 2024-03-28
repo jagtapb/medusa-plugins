@@ -44,7 +44,7 @@ Let's build together an awesome collection of plugins for medusajs. Do not hesit
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)](#contribute)
 
 # Contribute
-
+bhushan
 Contributions are welcome! You can look at the contribution [guidelines](./CONTRIBUTING.md)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)](#like-my-work-heartbeat)
